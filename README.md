@@ -1,9 +1,6 @@
 ### Hi there 👋 My name is Yusuf.
 I am a computer science student, looking to learn new tech stacks.
 
-I'm currently learning Node.js, Express.js and MongoDB.
-
-
 #### Contact me
 
 [<img width="35px" align="left" alt="Yusuf facebook" src=https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png />](https://www.facebook.com/profile.php?id=100025030883287)
