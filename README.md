@@ -1,7 +1,12 @@
 ### Hi there 👋 My name is Yusuf.
-I am a computer science student, looking to learn new tech stacks.
 
-#### Contact me
+- 🔭 I'm currently studying Computer Science in Rousse
+- 🌱 I'm currently learning React, TypeScript. Looking forward to learning NextJS.
+- 👯 I’m looking to get my first job as Software Developer.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yosko99&show_icons=true&theme=dracula)
+
+#### Contact me 📫
 
 [<img width="35px" align="left" alt="Yusuf facebook" src=https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png />](https://www.facebook.com/profile.php?id=100025030883287)
 [<img width="35px" align="left" alt="Yusuf linkedin" src=https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png />](https://www.linkedin.com/in/yusuf-bikov-910798211/)
