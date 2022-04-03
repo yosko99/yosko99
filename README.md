@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Yusuf.
 
 - 🔭 I'm currently studying Computer Science in Rousse
-- 🌱 I'm currently learning React, TypeScript. Looking forward to learning NextJS.
+- 🌱 I'm currently learning React, TypeScript. Looking forward to learn NextJS.
 - 👯 I’m looking to get my first job as Software Developer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yosko99&show_icons=true&theme=dracula)
