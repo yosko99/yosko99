@@ -1,9 +1,5 @@
 ### Hi there 👋 My name is Yusuf.
 
-- 🔭 I'm currently studying Computer Science in Rousse
-- 🌱 I'm currently learning GraphQL and Prisma. Looking forward to learn new tech.
-- 👯 I’m looking to get my first job as Software Developer.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosko99&layout=compact)](https://github.com/yosko99/github-readme-stats)
 
 #### Contact me 📫
